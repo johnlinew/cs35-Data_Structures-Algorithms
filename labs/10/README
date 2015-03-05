@@ -1,0 +1,37 @@
+CS35 Lab 10
+
+Name 1: Camden Wagner
+Name 2: NONE
+
+wagner: 
+NONE: 
+
+---------------------------------
+
+The analysis portion will be handed in physically by lecture on Tuesday
+November 26.  See the writeup for details.
+
+----------------------------------
+Lab Questionnaire 
+(None of these questions will have an impact on your grade, this is to 
+help provide use the feedback we need to make the course the best it can be)
+
+
+Approximately, how many hours did you take to complete this lab 
+(provide your answer as a single integer on the line below).
+
+  14
+
+How difficult did you find this lab?
+(1-5, with 5 being very difficult and 1 being very easy)
+
+  4
+
+Describe the biggest challenge you faced on this lab.
+
+  Getting hashTable-inl.h to work was a real pain. I had a lot of trouble
+  there. Otherwise, me being a highschooler, made the math portion of the
+  lab a little confusing, such as the way to get all of the possible plays
+  given a certain set of tiles. I was fine with choice 2, not so much for
+  choice 3.
+
