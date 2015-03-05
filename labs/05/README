@@ -1,0 +1,59 @@
+CS35 Lab 4
+
+Name: Ben Schreiber
+uname: bschrei1
+
+Name: Camden Wagner
+uname: wagner
+
+
+---------------------------------
+
+Describe your programs input, output, and general function:
+
+  The program takes in three integers, representing rows, columns, and walls.
+  Next, it takes in 'n = walls' number of positions, representing walls.  The
+  program then proceeds to place those walls, build the maze and solve it,
+  two ways, one using breadth first search and one using depth first search.
+  It outputs the coord positions of each coord in the solved path of the
+  maze, as well as the maze length, and a text based maze with the solution
+  mapped out in stars.
+
+What challenges did you encounter? And how did you address them?
+
+  Debugging issues and determining remaining consistent with x and y
+  (i.e. rows and columns)
+
+In plain english: Explain how a stack matches depth-first-search
+traversal of a maze? Why does a queue match breadth-first-search
+traversal?
+
+  A stack matches breadth first search because it processes the most recent
+  found values first, before getting to the values farther out in the maze.
+  A queue checks the next in line, by putting newfound information on the
+  back of the list.
+
+Find the prettiest generated maze, in your opinion, and copy and paste
+it below.
+ start --> * * * * * 
+           0 1 0 0 * 
+           0 0 0 1 * 
+           0 0 0 1 * 
+           0 0 0 0 * <-- finish 
+
+Describe any Challenge or Extra Credit you attempted below:
+
+----------------------------------
+Lab Questionnaire
+
+
+How many hours did you take to complete this lab?
+
+18
+How difficult did you find this lab?
+
+10
+Did you seek help on this lab? If so, describe where you received
+help, such as the Ninjas, Piazza, Proffesor, etc..
+
+All of the above

@@ -1,0 +1,3 @@
+picture /usr/swat/pics/parrish.jpg Parrish JPG
+video https://www.youtube.com/watch?v=YxpoqP9PkqM Hello_Heisman 123
+book /usr/local/doc/GettysburgAddress Gettysburg_Address Abe_Lincoln 1863
